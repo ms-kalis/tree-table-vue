@@ -1,8 +1,8 @@
-# tree-table-vue
+# tree-table-kalis
 
-> A table(with tree-grid) component development based on vue-table-with-tree-grid [@MisterTaki](https://github.com/MisterTaki/vue-table-with-tree-grid))
+> A table(with tree-grid) component development based on tree-table-vue [@lison16](https://github.com/lison16/tree-table-vue))
 
-> **在vue-table-with-tree-grid v1.1.0版本基础上，修复了**
+> **在tree-grid-vue v1.1.0版本基础上，修复了**
 
 ## Example
 
@@ -13,20 +13,20 @@
 Use npm:
 
 ```shell
-npm i tree-table-vue -S
+npm i tree-table-kalis -S
 ```
 
 Or use yarn:
 
 ```shell
-yarn add tree-table-vue
+yarn add tree-table-kalis
 ```
 
 ## Usage
 
 ```javascript
 import Vue from 'vue'
-import TreeTable from 'tree-table-vue'
+import TreeTable from 'tree-table-kalis'
 
 Vue.use(TreeTable)
 ```
@@ -35,7 +35,7 @@ Or
 
 ```javascript
 import Vue from 'vue'
-import TreeTable from 'tree-table-vue'
+import TreeTable from 'tree-table-kalis'
 
 Vue.component(TreeTable.name, TreeTable)
 ```
