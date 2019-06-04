@@ -2,17 +2,7 @@
 
 > A table(with tree-grid) component development based on vue-table-with-tree-grid [@MisterTaki](https://github.com/MisterTaki/vue-table-with-tree-grid))
 
-> **在vue-table-with-tree-grid v0.2.4版本基础上，修复了vue新版本对重复key检测造成的警告**
-
-> **添加了自定义显示展开子级按钮的属性expand-key**
-
-**注意：v1.0.7版本开始，修改了columns的prop属性为key，label属性为title，修改selection-type为selectable，添加了select-type属性**
-
-#### 作者系列视频课程：
-
-[Vue技术栈开发实战(26课时)](https://segmentfault.com/ls/1650000016221751?utm_source=recommend_web-live-new)
-
-[TypeScript完全解读(26课时)](https://segmentfault.com/ls/1650000018455856?utm_source=recommend_web-live-new)
+> **在vue-table-with-tree-grid v1.1.0版本基础上，修复了**
 
 ## Example
 
